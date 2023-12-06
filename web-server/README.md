@@ -31,10 +31,6 @@ python manage.py runserver
 * Endpoint: `admin`
 * Method: GET
 
-### Get User Detail
-* Endpoint: `users/:id`
-* Method: GET
-
 ### Get User List
 * Endpoint: `polls/users`
 * Method: GET
